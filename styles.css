@@ -305,6 +305,12 @@ body {
   background: linear-gradient(90deg, transparent, var(--line) 50%, transparent);
 }
 
+.footer__signature {
+  margin: 0;
+  letter-spacing: 0.06em;
+  color: var(--text-faint);
+}
+
 .footer code {
   background: var(--steel-light);
   padding: 0.15rem 0.4rem;
